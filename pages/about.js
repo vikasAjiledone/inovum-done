@@ -23,7 +23,7 @@ class Aabout extends Component {
           <div className="d-table">
             <div className="d-table-cell">
               <div className="container">
-                <h1 style={{paddingBottom:"10%",color:"#fff"}}>WELCOME TO DIGITAL AGENCY</h1>
+                <h1 style={{paddingBottom:"3%",color:"#fff"}}>WELCOME TO DIGITAL AGENCY</h1>
                 <h3 style={{ color: "#fff", paddingTop: "0px" }} className="about-para">
                   Our digital marketing solutions are designed to help
                   businesses create a unique and powerful online presence. Our
